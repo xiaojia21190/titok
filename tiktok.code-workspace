@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "comment"
+		},
+		{
+			"path": "feed"
+		},
+		{
+			"path": "gateway"
+		},
+		{
+			"path": "publish"
+		},
+		{
+			"path": "user"
+		},
+		{
+			"path": "favorite"
+		},
+	],
+	"settings": {}
+}
